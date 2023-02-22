@@ -1,11 +1,6 @@
 #前言
+
 我校ics的课程涵盖还是比较标准的，基本的计算机核心课都有了，申请研究生肯定是足够的。但是如果是希望自己能够从事一些开发工作或者是科研访学，这些课程是远远不够的，可以说如果仅仅学课内课程的话什么活也干不了（非常抽象），更别说有些课的质量实在是一言难尽。这篇会分享ics基本的核心课信息+一点网课推荐。作者是20届的，所以是根据20届的课设和lecturer写的，后续有可能会做出调整，但大体不会改变。
-
-<!-- ## Y1-S2
-大一下学期学校应该会分配两门水课**CPT001 Professional Skills in Computer Science**和**CPT002 Current Trends and Emerging Topics in Computer Science**，我记得一门课会要求写SoP和CV，一门是写应用技术到实际的论文，给分很抽象，也没什么实际应用价值。（作者这俩门得分都一般，之前没有接触过cs，有一位有cs基础的朋友论文写的是KNN应用到救火什么的，虽然我感觉也是扯犊子，但涉及到一点AI算法了，分拿的老高了TnT）
-
-上这两课没什么意思，几乎等于浪费时间。如果是大一的新同学选了ics，一点foundation都没有推荐有空看一下 [MIT-Missing-Semester](https://missing.csail.mit.edu/2020/) **例如 Shell 编程、命令行配置、Git、Vim、tmux、ssh** 这些对于一个programmar很重要的知识，但是学校没有教的，这门课都会涉及到。（很多求职jd里面都会要求shell脚本编程）起码不至于连编译器都不会装。（作者见过很多这样的同学） -->
-
 
 
 ## Y3-S1 
@@ -41,7 +36,6 @@ Programming Language: C++
 Coursework：两个，一个是2D，一个是3D。两个都是基于OpenGL的，两个都是基于Freeglut库的，应该只能使用STL和freeglut俩Cpp的库，不给使用多余的库。第一个cw公布的时间在前半学期，能用到的知识比较少，基本只有画一些基本图形和几何变化，可以做的很卷，美工大赛。第二个3d作业也是用openGL搭建场景，可以运用到光照，纹理映射的知识了。有认识的同学做的很卷很卷。很像美术创意大赛，做的好看应该分数就不错。个人觉得有点不太合理
 如果想要自己深入学习图形学的同学，可以先看看闫神的[GAMES101](https://www.bilibili.com/video/BV1X7411F744/?spm_id_from=333.337.search-card.all.click&vd_source=27a7dfe7f23984062616fef51dbba7fa)（*GAMES系列的课质量真不错哇，喜欢图形学游戏引擎的同学可以多看看，做做cw，网上有很多做完的作业，如果手搓完GAMES101的作业应该会对图形学有更深的理解，作者是懒狗，很后悔没写*），然后再来看这门课。如果只是想要学习一下OpenGL的同学，可以直接看看[LearnOpenGL](https://learnopengl-cn.github.io)
 
-Coursework：两个，一个是2D，一个是3D。两个都是基于OpenGL的，两个都是基于Freeglut库的，应该只能使用STL和freeglut俩Cpp的库，不给使用多余的库。感觉基本按照美术情况给分(?)。
 
 ### INT 201
 Decision Computation and Language
